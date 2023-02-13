@@ -12,6 +12,9 @@ Essa é uma solução para o [QR code component challenge on Frontend Mentor](ht
 
 ### Screenshot
 
+![image](https://user-images.githubusercontent.com/90656961/218540642-42b6eece-27dc-41a0-ba7c-eca5c1056840.png)
+
+
 ### Links
 
 - Live Site URL: [Add live site URL here](https://your-live-site-url.com)
